@@ -3,4 +3,4 @@ Python security automation script that reads standard server connection log and 
 
 # Tech stack
 - Languages: Python
-- Modules: CSV, re, Collections
+- Modules: CSV, re, Collections (Counter)
